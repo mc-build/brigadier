@@ -1,5 +1,5 @@
 {
-    "name": "@jsprismarine/brigadier",
+    "name": "@mc-build/brigadier",
     "version": "0.2.0-rc.1",
     "description": "A javascript port of Mojangs Brigadier library",
     "main": "dist/index.js",
