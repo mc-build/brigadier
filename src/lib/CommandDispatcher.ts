@@ -136,6 +136,100 @@ export default class CommandDispatcher<S> {
         return result;
     }
 
+    public async executeAsync(
+        input: string | StringReader | ParseResults<S>,
+        source: S = null
+    ): Promise<any[]> {
+        if (typeof input === 'string') input = new StringReader(input);
+
+        let parse: ParseResults<S>;
+        if (input instanceof StringReader) {
+            if (!(source == null)) parse = this.parse(input, source);
+        } else parse = input;
+
+        if (parse.getReader().canRead()) {
+            if (parse.getExceptions().size === 1) {
+                throw parse.getExceptions().values().next().value;
+            } else if (parse.getContext().getRange().isEmpty()) {
+                throw CommandSyntaxException.BUILT_IN_EXCEPTIONS.dispatcherUnknownCommand().createWithContext(
+                    parse.getReader()
+                );
+            } else {
+                throw CommandSyntaxException.BUILT_IN_EXCEPTIONS.dispatcherUnknownArgument().createWithContext(
+                    parse.getReader()
+                );
+            }
+        }
+
+        let result = [];
+        let successfulForks = 0;
+        let forked = false;
+        let foundCommand = false;
+        let command = parse.getReader().getString();
+        let original = parse.getContext().build(command);
+        let contexts: Array<CommandContext<S>> = [];
+        contexts.push(original);
+        let next: CommandContext<S>[] = null;
+        while (!(contexts == null)) {
+            for (let i = 0; i < contexts.length; i++) {
+                let context: CommandContext<S> = contexts[i];
+                let child: CommandContext<S> = context.getChild();
+                if (!(child == null)) {
+                    forked = forked || context.isForked();
+                    if (child.hasNodes()) {
+                        foundCommand = true;
+                        let modifier: RedirectModifier<S> = context.getRedirectModifier();
+                        if (modifier == null) {
+                            if (next == null) next = [];
+                            next.push(child.copyFor(context.getSource()));
+                        } else {
+                            try {
+                                let results: Array<S> = modifier.apply(context);
+                                if (results.length !== 0) {
+                                    if (next == null) next = [];
+
+                                    for (let source of results) {
+                                        next.push(child.copyFor(source));
+                                    }
+                                }
+                            } catch (ex) {
+                                this.consumer.onCommandComplete(
+                                    context,
+                                    false,
+                                    0
+                                );
+                                if (!forked) throw ex;
+                            }
+                        }
+                    }
+                } else if (context.getCommand() != null) {
+                    foundCommand = true;
+                    try {
+                        let value = await (context.getCommand())(context);
+                        result.push(value);
+                        this.consumer.onCommandComplete(context, true, value);
+                        successfulForks++;
+                    } catch (ex) {
+                        this.consumer.onCommandComplete(context, false, ex);
+                        if (!forked) throw ex;
+                    }
+                }
+            }
+
+            contexts = next;
+            next = null;
+        }
+
+        if (!foundCommand) {
+            this.consumer.onCommandComplete(original, false, 0);
+            throw CommandSyntaxException.BUILT_IN_EXCEPTIONS.dispatcherUnknownCommand().createWithContext(
+                parse.getReader()
+            );
+        }
+
+        return await Promise.all(result);
+    }
+
     public parse(command: string | StringReader, source: S): ParseResults<S> {
         if (typeof command === 'string') command = new StringReader(command);
 

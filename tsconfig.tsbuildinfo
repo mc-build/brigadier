@@ -2,8 +2,8 @@
   "program": {
     "fileInfos": {
       "./node_modules/typescript/lib/lib.es5.d.ts": {
-        "version": "70ae6416528e68c2ee7b62892200d2ca631759943d4429f8b779b947ff1e124d",
-        "signature": "70ae6416528e68c2ee7b62892200d2ca631759943d4429f8b779b947ff1e124d",
+        "version": "9622e8bd7cc72a7dab819a8011ecbf81d443638082e5cb99ecf2e75ff56ffc9d",
+        "signature": "9622e8bd7cc72a7dab819a8011ecbf81d443638082e5cb99ecf2e75ff56ffc9d",
         "affectsGlobalScope": true
       },
       "./node_modules/typescript/lib/lib.es2015.d.ts": {
@@ -32,18 +32,18 @@
         "affectsGlobalScope": false
       },
       "./node_modules/typescript/lib/lib.es2020.d.ts": {
-        "version": "94b4108552f078722078d7c4a010ca4851063882f6c0c51a1468aa7a39aed4b3",
-        "signature": "94b4108552f078722078d7c4a010ca4851063882f6c0c51a1468aa7a39aed4b3",
+        "version": "e21c071ca3e1b4a815d5f04a7475adcaeea5d64367e840dd0154096d705c3940",
+        "signature": "e21c071ca3e1b4a815d5f04a7475adcaeea5d64367e840dd0154096d705c3940",
         "affectsGlobalScope": false
       },
       "./node_modules/typescript/lib/lib.esnext.d.ts": {
-        "version": "2f8f379dedbdbd96a38a1e445cb3919853a1157a950fd977f85808db8d0f8a58",
-        "signature": "2f8f379dedbdbd96a38a1e445cb3919853a1157a950fd977f85808db8d0f8a58",
+        "version": "fc7a21dd3ee27fd0a9ff1c46534efcd9c3cec51a445b479bb326d871c0aa8302",
+        "signature": "fc7a21dd3ee27fd0a9ff1c46534efcd9c3cec51a445b479bb326d871c0aa8302",
         "affectsGlobalScope": false
       },
       "./node_modules/typescript/lib/lib.es2015.core.d.ts": {
-        "version": "63e0cc12d0f77394094bd19e84464f9840af0071e5b9358ced30511efef1d8d2",
-        "signature": "63e0cc12d0f77394094bd19e84464f9840af0071e5b9358ced30511efef1d8d2",
+        "version": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
+        "signature": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
         "affectsGlobalScope": true
       },
       "./node_modules/typescript/lib/lib.es2015.collection.d.ts": {
@@ -57,18 +57,18 @@
         "affectsGlobalScope": true
       },
       "./node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
-        "version": "42f5e41e5893da663dbf0394268f54f1da4b43dc0ddd2ea4bf471fe5361d6faf",
-        "signature": "42f5e41e5893da663dbf0394268f54f1da4b43dc0ddd2ea4bf471fe5361d6faf",
+        "version": "8b2a5df1ce95f78f6b74f1a555ccdb6baab0486b42d8345e0871dd82811f9b9a",
+        "signature": "8b2a5df1ce95f78f6b74f1a555ccdb6baab0486b42d8345e0871dd82811f9b9a",
         "affectsGlobalScope": true
       },
       "./node_modules/typescript/lib/lib.es2015.promise.d.ts": {
-        "version": "0b7a905675e6cb4211c128f0a3aa47d414b275180a299a9aad5d3ec298abbfc4",
-        "signature": "0b7a905675e6cb4211c128f0a3aa47d414b275180a299a9aad5d3ec298abbfc4",
+        "version": "2bb4b3927299434052b37851a47bf5c39764f2ba88a888a107b32262e9292b7c",
+        "signature": "2bb4b3927299434052b37851a47bf5c39764f2ba88a888a107b32262e9292b7c",
         "affectsGlobalScope": true
       },
       "./node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
-        "version": "dfff68b3c34338f6b307a25d4566de15eed7973b0dc5d69f9fde2bcac1c25315",
-        "signature": "dfff68b3c34338f6b307a25d4566de15eed7973b0dc5d69f9fde2bcac1c25315",
+        "version": "7207e317a2cb07a177e7d963ab7b8c0e85dde7f9ddb50351f830239bf597569e",
+        "signature": "7207e317a2cb07a177e7d963ab7b8c0e85dde7f9ddb50351f830239bf597569e",
         "affectsGlobalScope": true
       },
       "./node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
@@ -82,8 +82,8 @@
         "affectsGlobalScope": true
       },
       "./node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
-        "version": "4670208dd7da9d6c774ab1b75c1527a810388c7989c4905de6aaea8561cb9dce",
-        "signature": "4670208dd7da9d6c774ab1b75c1527a810388c7989c4905de6aaea8561cb9dce",
+        "version": "9d122b7e8c1a5c72506eea50c0973cba55b92b5532d5cafa8a6ce2c547d57551",
+        "signature": "9d122b7e8c1a5c72506eea50c0973cba55b92b5532d5cafa8a6ce2c547d57551",
         "affectsGlobalScope": true
       },
       "./node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
@@ -97,8 +97,8 @@
         "affectsGlobalScope": true
       },
       "./node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
-        "version": "d0db416bccdb33975548baf09a42ee8c47eace1aac7907351a000f1e568e7232",
-        "signature": "d0db416bccdb33975548baf09a42ee8c47eace1aac7907351a000f1e568e7232",
+        "version": "7ce9f0bde3307ca1f944119f6365f2d776d281a393b576a18a2f2893a2d75c98",
+        "signature": "7ce9f0bde3307ca1f944119f6365f2d776d281a393b576a18a2f2893a2d75c98",
         "affectsGlobalScope": true
       },
       "./node_modules/typescript/lib/lib.es2017.string.d.ts": {
@@ -162,13 +162,18 @@
         "affectsGlobalScope": true
       },
       "./node_modules/typescript/lib/lib.es2020.bigint.d.ts": {
-        "version": "4f435f794b7853c55e2ae7cff6206025802aa79232d2867544178f2ca8ff5eaa",
-        "signature": "4f435f794b7853c55e2ae7cff6206025802aa79232d2867544178f2ca8ff5eaa",
+        "version": "7b5a10e3c897fabece5a51aa85b4111727d7adb53c2734b5d37230ff96802a09",
+        "signature": "7b5a10e3c897fabece5a51aa85b4111727d7adb53c2734b5d37230ff96802a09",
         "affectsGlobalScope": true
       },
       "./node_modules/typescript/lib/lib.es2020.promise.d.ts": {
         "version": "7435b75fdf3509622e79622dbe5091cf4b09688410ee2034e4fc17d0c99d0862",
         "signature": "7435b75fdf3509622e79622dbe5091cf4b09688410ee2034e4fc17d0c99d0862",
+        "affectsGlobalScope": true
+      },
+      "./node_modules/typescript/lib/lib.es2020.sharedmemory.d.ts": {
+        "version": "e7e8e1d368290e9295ef18ca23f405cf40d5456fa9f20db6373a61ca45f75f40",
+        "signature": "e7e8e1d368290e9295ef18ca23f405cf40d5456fa9f20db6373a61ca45f75f40",
         "affectsGlobalScope": true
       },
       "./node_modules/typescript/lib/lib.es2020.string.d.ts": {
@@ -179,6 +184,11 @@
       "./node_modules/typescript/lib/lib.es2020.symbol.wellknown.d.ts": {
         "version": "936d7d2e8851af9ccfa5333b15e877a824417d352b1d7fd06388639dc69ef80a",
         "signature": "936d7d2e8851af9ccfa5333b15e877a824417d352b1d7fd06388639dc69ef80a",
+        "affectsGlobalScope": true
+      },
+      "./node_modules/typescript/lib/lib.es2020.intl.d.ts": {
+        "version": "31e8df2398e328077079c17ea4f1664bad0a34adf8b0608837e504e310e329a1",
+        "signature": "31e8df2398e328077079c17ea4f1664bad0a34adf8b0608837e504e310e329a1",
         "affectsGlobalScope": true
       },
       "./node_modules/typescript/lib/lib.esnext.intl.d.ts": {
@@ -196,219 +206,224 @@
         "signature": "cd6efb9467a8b6338ece2e2855e37765700f2cd061ca54b01b33878cf5c7677e",
         "affectsGlobalScope": true
       },
-      "./src/lib/util/isEqual.ts": {
+      "./node_modules/typescript/lib/lib.esnext.weakref.d.ts": {
+        "version": "1e61418f41d404e744b6536af9f8c6f6674dd4d54c12335cd0c4f7eded69cf3f",
+        "signature": "1e61418f41d404e744b6536af9f8c6f6674dd4d54c12335cd0c4f7eded69cf3f",
+        "affectsGlobalScope": true
+      },
+      "./src/lib/util/isequal.ts": {
         "version": "adb113d11f2acd855d151cc4598f0ce152abbd18526ea43b31d56af280fb3225",
-        "signature": "bc7b3a894f3385bc81d26c95b9afd0936ec0ce7cf383e8c7e3e2ecd5aff906c6",
+        "signature": "8cc901764fee6d387c228780c5415d0867494ef427561c5163e3e46e2dcef2e8",
         "affectsGlobalScope": false
       },
-      "./src/lib/RedirectModifier.ts": {
+      "./src/lib/redirectmodifier.ts": {
         "version": "ac0f93748f7f400516c0d975b9963471f4b5408c3b2fdfaacbb8c862daead5e5",
-        "signature": "c9dc39914f668838ce6e5ed8adfaab2ffc470822ad52a84f619b7dfdbea1f460",
+        "signature": "55db3d4b37d49a8b9e1a7793cad2c7920e1448af8bc90ea8215ebcf00aa3fe9d",
         "affectsGlobalScope": false
       },
-      "./src/lib/ImmutableStringReader.ts": {
+      "./src/lib/immutablestringreader.ts": {
         "version": "ee9b05f4ceb3b94aff83c072a16839175747e73fa45498bc58f7d36b2f62c293",
-        "signature": "cefec0176a0f4ba2fdaae920803d7376c46659130bd2334a9b826079c1490af5",
+        "signature": "135d37a3a995c89aae22ae31b19de737437f8709004803337cf17c8c11eb4231",
         "affectsGlobalScope": false
       },
-      "./src/lib/context/StringRange.ts": {
+      "./src/lib/context/stringrange.ts": {
         "version": "e0b6f2f3c3697ef721e6dcfbb050cc244ce7d26b3ca306f9e4727aa605252bdf",
-        "signature": "22c238dd15d7406c524be2159091dd8d39419eda06350bb838fc75c78b560326",
+        "signature": "a0862bfc0bfb6a967697f0793d5a04a6394dfc4043b19bd3f5260ab909a45b92",
         "affectsGlobalScope": false
       },
-      "./src/lib/context/ParsedArgument.ts": {
+      "./src/lib/context/parsedargument.ts": {
         "version": "4cc59fc21dedecdb0d0cc04c6f1b5975b2e2829c8dad40fc9566acbb498cf900",
-        "signature": "69b77ed390512743c2f2ef61665eff9001fc9aea0a0c2dff571c6979c5cb770d",
+        "signature": "1c96c3fd98fcf391666acc4f91cde32bd0d5fdab15f91402ba9e04a453e91625",
         "affectsGlobalScope": false
       },
-      "./src/lib/context/ParsedCommandNode.ts": {
+      "./src/lib/context/parsedcommandnode.ts": {
         "version": "4246d21cbf2f79e676f3c21e18b416ea17ecf0d307c0815be0820e82c80dcfc2",
-        "signature": "7a6e4c21c99058a51085d397f9186687f0072421cd17e62c1ceecc4adc3b9b3f",
+        "signature": "d5ac3fbd236b666abe98262a54e654caf67258db6838aeb08b844ca641345d75",
         "affectsGlobalScope": false
       },
-      "./src/lib/context/CommandContext.ts": {
+      "./src/lib/context/commandcontext.ts": {
         "version": "7c8f48c1454570b173b64b99999c7c2567b26e88b7925e5ef901e15a0253b8fe",
-        "signature": "b75d94f465883c563b0b9a5e6c1690f696a3c2a9a805e53cd3d1c6c584197f9e",
+        "signature": "9d701b5410ea99f519dcf43b64ddf12c07766bbb67ad49b0a53132882efa3a37",
         "affectsGlobalScope": false
       },
-      "./src/lib/Command.ts": {
+      "./src/lib/command.ts": {
         "version": "daa07f8488276f6bf35087b493d47f97d0cbe6c54b793d543df79158face8244",
-        "signature": "7dd14f47f250653d948731ffbf6df93795d86bb3c98a287fd2dc0ddf61be789d",
+        "signature": "f78c6c399a153f24ce54812cbf2c543a4843c2dcee1764b6e8cbbed9dad23abc",
         "affectsGlobalScope": false
       },
-      "./src/lib/SingleRedirectModifier.ts": {
+      "./src/lib/singleredirectmodifier.ts": {
         "version": "51e6c65ca9f881c39203f2f62a8c7a18215f9bb0ee0029eca2717b3a3f2b8c0e",
-        "signature": "1d4df79ac8c66a278d69eabbc506a8ce61e97790a971c5e857e3ffa35ceb8787",
+        "signature": "071de13ac1f525d66283e5a6a4f64019e3dff79f7f207849d150c4f7dbfe836b",
         "affectsGlobalScope": false
       },
-      "./src/lib/Message.ts": {
+      "./src/lib/message.ts": {
         "version": "5974b101690c28fab03b5b1cc2a97499dd4d27d1d07cc00be2aeeb6aed3e8d88",
-        "signature": "06639efa9feb64a287a8ca91171a1026cd0c2cbbee89e0bf5250f2fb6053e0f6",
+        "signature": "d849409d9b8036ed37423b04d8dac748d07f3781466b1d7a21af7b66b2aa2a1e",
         "affectsGlobalScope": false
       },
-      "./src/lib/LiteralMessage.ts": {
+      "./src/lib/literalmessage.ts": {
         "version": "c6dd1c506970412044d31199617e748a11168e3563f13651d40ba1d0be45601c",
-        "signature": "bad46c0d8c73a3a97a2c67dd157427cdc5941bf99380bd5ee9a9f1f8a851c114",
+        "signature": "de38493cd6f606f0b6da768f39e63017e04fbd987dcadff2f6d23698af10d835",
         "affectsGlobalScope": false
       },
-      "./src/lib/exceptions/CommandExceptionType.ts": {
+      "./src/lib/exceptions/commandexceptiontype.ts": {
         "version": "cadd2e22bf28ed72ac86e8183c1f2b10a17c17f261573903598ba26b94f495c2",
-        "signature": "37d95e2ce599de45145c66135326186186da4f69122936bfb4fc4ed1458ee89d",
+        "signature": "cadd2e22bf28ed72ac86e8183c1f2b10a17c17f261573903598ba26b94f495c2",
         "affectsGlobalScope": false
       },
-      "./src/lib/exceptions/DynamicCommandExceptionType.ts": {
+      "./src/lib/exceptions/dynamiccommandexceptiontype.ts": {
         "version": "d57a8ab8db5a508622e4136101716e2b5252f7f75e7c2366baac3803bf4a6ed7",
-        "signature": "5cf4f6c41b7dbec4fc20ad0bc8cada8f4fcfa583e328c00ece203921cbf98b76",
+        "signature": "765ea9553c2d0980d0f4d1bcb87b14dc273dc2ad739d3c742eded119b0678c24",
         "affectsGlobalScope": false
       },
-      "./src/lib/exceptions/SimpleCommandExceptionType.ts": {
+      "./src/lib/exceptions/simplecommandexceptiontype.ts": {
         "version": "33071a5a9b22e32a96bc505de69d0a62b0e17d439c7dd6e97edee91f777ff5b6",
-        "signature": "56408fb496842aa38c4b50938179b8ee508d38e4f61ab4c7e1dfca87a0f97afd",
+        "signature": "de9d6ee978250040c66980fd66169e967eb7cd79ac5a40ac40dd27f916658c7a",
         "affectsGlobalScope": false
       },
-      "./src/lib/exceptions/BuiltInExceptionProvider.ts": {
+      "./src/lib/exceptions/builtinexceptionprovider.ts": {
         "version": "dcf1127116a446aac05c5d714731563340376c5071af2ad869826a15dc57d844",
-        "signature": "4f79c4c383b6e4be61f65b42f0efaaa6b2c459466d3b17219b757b71e4329e0c",
+        "signature": "72403798afe9dc73806d1301c3b190b4cc3b14648f5f83c655be7b8b12b5542e",
         "affectsGlobalScope": false
       },
-      "./src/lib/exceptions/BuiltInExceptions.ts": {
+      "./src/lib/exceptions/builtinexceptions.ts": {
         "version": "deb4a121d6d6dc9243ee32b3030d46b9cdf262d91fa21e478a4e6a5c577200a2",
-        "signature": "9a668316a1c3c9bc9aed9ff5c0973c22950312d1a7f9380812ed8f78b7908d8c",
+        "signature": "fa1050825894efdb80e6a81535c0abb174cfff9bac856b337981285b06a2a3ae",
         "affectsGlobalScope": false
       },
-      "./src/lib/exceptions/CommandSyntaxException.ts": {
+      "./src/lib/exceptions/commandsyntaxexception.ts": {
         "version": "e6f8d23e7293f60c0c3fcd470b45cd33987aa711759baf5baf3259ffbfee6262",
-        "signature": "7edc374364c5edbaa12fa51600ee2d402a058fbaf59e3bd29b8e60d189fea848",
+        "signature": "be4c8b90648c4a32f9b58863c2a32a4be0e8b1f19a6e8df04b03436509a338a5",
         "affectsGlobalScope": false
       },
-      "./src/lib/StringReader.ts": {
+      "./src/lib/stringreader.ts": {
         "version": "1d3154c29162df74ed771fedb74e4f821f80ba341437a636f684f2fb13e00c20",
-        "signature": "2807a1d2a13a40f77c9c517542674167e7e6210a9aa2afcedbed6f6354ecc6bd",
+        "signature": "6bb51c2da9bcdf2fcc0e5f9254d88e67029266da6564f673f65e684550c23494",
         "affectsGlobalScope": false
       },
-      "./src/lib/context/SuggestionContext.ts": {
+      "./src/lib/context/suggestioncontext.ts": {
         "version": "e9df875132775cc435f9a5f8abd64271e143d7c1dc4144878f7a9b141e2c3d87",
-        "signature": "218a7288047fe32c5628c93c1e48134f44caf6b2afc4463da70a6e448d8b001a",
+        "signature": "67f7fd8fb9ce7061b9372f9a2b9507f21e6bf9b4779b1369e831b9e9407de83d",
         "affectsGlobalScope": false
       },
-      "./src/lib/context/CommandContextBuilder.ts": {
+      "./src/lib/context/commandcontextbuilder.ts": {
         "version": "84e82e9111a37eb3dba7e6cf3cd15109a5d707d777498fa3492407888eff4bba",
-        "signature": "883212b4c05763699ab9e665418d3875edc08196601cf43f9918e6eeef770253",
+        "signature": "45c3b0caea5357881f88f409e5539a33f3d865784e3b5b4610877deb80ec90ee",
         "affectsGlobalScope": false
       },
-      "./src/lib/suggestion/Suggestion.ts": {
+      "./src/lib/suggestion/suggestion.ts": {
         "version": "0ee8068d1df051dab51c7f5ed612d754e40d729fb1cb5be09bdd2f5c9e8c2eaf",
-        "signature": "f34e46ec0b8b4ef8cedbcc7a52a0d808b869950392f1a280e66aad2915b8fc37",
+        "signature": "88e6cfe3859a02e746ccbb0fcaa8e891a6b5ff41733bf7750ee500c4020f452e",
         "affectsGlobalScope": false
       },
-      "./src/lib/suggestion/Suggestions.ts": {
+      "./src/lib/suggestion/suggestions.ts": {
         "version": "249022b423b0682012a44c53e3f3111e6b76e308b48d34014f2003f2379f4ed9",
-        "signature": "1a9a6c59d9b584c9a5658ae38604dae1fd6ab633f832d779705013f8c87deb85",
+        "signature": "8575f75b9b56631919c8fa3222d7e43f6889aad2389187fd6c782a34cb501f28",
         "affectsGlobalScope": false
       },
-      "./src/lib/suggestion/IntegerSuggestion.ts": {
+      "./src/lib/suggestion/integersuggestion.ts": {
         "version": "b1cfcb0b0797a63dc546357bf1c8db0bcc3f79536915b69204afa094ddde5b72",
-        "signature": "dbed8d86a53fe626675a8c7bbad3ff7ef167f0b45c3e1f74952f1600c4057c21",
+        "signature": "10f0776ff61fb8115061822dc3259cc7f91ef00b54b46a473155f7d187192baa",
         "affectsGlobalScope": false
       },
-      "./src/lib/suggestion/SuggestionsBuilder.ts": {
+      "./src/lib/suggestion/suggestionsbuilder.ts": {
         "version": "8e23a2e68e445c448ee3ff0f6ace585015df44b3e4e90b53af15943de4b33bd0",
-        "signature": "b555dca9a8b7a24b8e6303b42cc28443b9a8e0fdea8d9e48d628416e763fc8d6",
+        "signature": "1c2501942eb7465fb0f7b05889f65e98a62b68d3f1bd3a6dac5704d8e30a8550",
         "affectsGlobalScope": false
       },
-      "./src/lib/tree/RootCommandNode.ts": {
+      "./src/lib/tree/rootcommandnode.ts": {
         "version": "0567c131f259c925eca88b38d80fd7ee3c15f47d2c8b158992b1faec67320397",
-        "signature": "3c6df29f8ea580b455a9c81bae6aedd6f5d47bc890bf906ad203eec144dd6b31",
+        "signature": "53e04b0abfac830dc6bd40d8cb9fe983cd9d74ce1a91c2eaacc37f66e345c40b",
         "affectsGlobalScope": false
       },
-      "./src/lib/Predicate.ts": {
+      "./src/lib/predicate.ts": {
         "version": "d7b4e0d909826825151cb08d5bd1361d353581dc1fa337f44cdde3fc517f383b",
-        "signature": "460daeb63e7d4ffff194fb3d55b25504ff582d94f0c83f153a598b6007b94dce",
+        "signature": "f29f2fbd1c6335913f0a4015c68384eee2fb3390a222834efe68debe46a3c0b0",
         "affectsGlobalScope": false
       },
-      "./src/lib/builder/ArgumentBuilder.ts": {
+      "./src/lib/builder/argumentbuilder.ts": {
         "version": "23f599dc3212b6993f96fdae05971d1cf2d3253ebfe1caf60b889b9850340ae4",
-        "signature": "d7aa52e4c396f7cd0d867d27fed4038bd2e0a4a9155bac027d5a6d1fe3008263",
+        "signature": "a83af10c7b56ce679085f868715e50f8329f839a9de7cb8f53a0c9b260c17104",
         "affectsGlobalScope": false
       },
-      "./src/lib/tree/CommandNode.ts": {
+      "./src/lib/tree/commandnode.ts": {
         "version": "39c1851d2f776c645fc77c12d7b1138eabd10918170f318e81e3cfa45672a3e8",
-        "signature": "183c95426409fec15bf0ebfa7407d18d3fb4f4d7217a004a9ba5a1a623b6faf8",
+        "signature": "21e027ff4bcf1f802d38d8cb48862248dedf9a02c5331e756f1e8b6ee766b708",
         "affectsGlobalScope": false
       },
-      "./src/lib/AmbiguityConsumer.ts": {
+      "./src/lib/ambiguityconsumer.ts": {
         "version": "b6ddfe78c448e2231ee72e8b57d59e4730a9e92dc563ad5f2661e60d59fd23a3",
-        "signature": "a415521e7e575f0e496e1e88fec576d4a870f6f9a47370a2f8fd04a93431296f",
+        "signature": "9fbcd27ff70067ce23ecc5ab5128e5a6558f7baf9d6cde524784445005ddc9ce",
         "affectsGlobalScope": false
       },
-      "./src/lib/tree/LiteralCommandNode.ts": {
+      "./src/lib/tree/literalcommandnode.ts": {
         "version": "451a8d5d636851dbed84b966c81c0075c1dab29ae7852cb33e2e366aa6b8dff0",
-        "signature": "92c6ece25a660489cad4c1bef269e43b742a1e206702def0c810789d9b56d026",
+        "signature": "61e06fda303725d39259b892539b8a84910dc695d6035d6ca98df8cc193f5cb1",
         "affectsGlobalScope": false
       },
-      "./src/lib/builder/LiteralArgumentBuilder.ts": {
+      "./src/lib/builder/literalargumentbuilder.ts": {
         "version": "ba98771dcd70f4a100c2484bef9166e6a1e8845989b11fadfc5dfa4b80fec529",
-        "signature": "742b0ace921915399ec12dbfa45b04fbdfbd9fb73f6e1a090a15e1f1d979dd69",
+        "signature": "2be6e872e6e94e3de43b33d918e8202bcc74b1f78da72df16a3dacd5bd1cb1bc",
         "affectsGlobalScope": false
       },
-      "./src/lib/ParseResults.ts": {
+      "./src/lib/parseresults.ts": {
         "version": "2a536082c5fdb7fdb15a514817e74ccae19edac4634b0acdcb7c08be149375ca",
-        "signature": "fe7a3506545078f5fc93ce974e96885b9565f3a612f0b6770cfe43fd11a82c16",
+        "signature": "5aaa2d37808621a38663663867b5340607fdd614eb5f6a8e5b97964d90c6662c",
         "affectsGlobalScope": false
       },
-      "./src/lib/ResultConsumer.ts": {
+      "./src/lib/resultconsumer.ts": {
         "version": "b2faaa4ca53255a12ebf650759a10b1ac2c5bdb72e3dc1455cf917db3d4c8d1c",
-        "signature": "1967e728fc0c53a460ba5ad11d23800364b6c3f751ff9259d36876c262c6d318",
+        "signature": "495822eeecd56ca5409ce2e1dd824edb91de4f93efbf98d24fdbc6bdaebc50c8",
         "affectsGlobalScope": false
       },
-      "./src/lib/CommandDispatcher.ts": {
-        "version": "ce31b102d236441c55854b44c6dd406fb049ecb378cd88730fff13a63ce11e06",
-        "signature": "4489904951c0950e54ea1527010ddfa03284f8229c4b037ac11583a49ebb3881",
+      "./src/lib/commanddispatcher.ts": {
+        "version": "122822c422379377c983baf9da1132db209ef581f29982e3c971f48fe0e8308c",
+        "signature": "e9f8f823e1f93d4d003025e33e6c24708837393c9ca41cbce92b824c0e79e1a4",
         "affectsGlobalScope": false
       },
-      "./src/lib/arguments/BoolArgumentType.ts": {
+      "./src/lib/arguments/boolargumenttype.ts": {
         "version": "15b33d968d8f871615d773e5ad32afb8135bb057e16e568df7f0eeea10fce2c4",
-        "signature": "e58a8b40815fd14df7e76444ab98522f5932ec7708828ec7814c1bb19b612cea",
+        "signature": "eaf8de890d1164149560f9df28ca93339bd049f7b0cef8900de0651fc74cce88",
         "affectsGlobalScope": false
       },
-      "./src/lib/arguments/FloatArgumentType.ts": {
+      "./src/lib/arguments/floatargumenttype.ts": {
         "version": "d81facd320a440d3c0fd2e57f115ae0fef4fe5af10f69f86fa8a051d430a0e9f",
-        "signature": "359fb56671bc6220eaa132f7de95dd14f68767b822b4c04766dd00071a46c874",
+        "signature": "ee8a490e53f87a6e6fa8b27cb684d720e4da2ccdc704e692903ce5184bf0965c",
         "affectsGlobalScope": false
       },
-      "./src/lib/arguments/IntegerArgumentType.ts": {
+      "./src/lib/arguments/integerargumenttype.ts": {
         "version": "4f60505f2f44f0448ded31a048a565df9866a19c472d75f26065283a0e1fb7a4",
-        "signature": "d60522aefc686c7d5c55e7e39bf3644871a662ddd0c53b3f301044b368c3a60b",
+        "signature": "950aaf50f24d1b7c8f8ad58451c1b6d0628708a6d2c31b3c37f180135adbe91c",
         "affectsGlobalScope": false
       },
-      "./src/lib/arguments/StringArgumentType.ts": {
+      "./src/lib/arguments/stringargumenttype.ts": {
         "version": "77d7bad5b0eb28d239edee9779b77e4ade29cb644608030116553efd7130c679",
-        "signature": "46b04aae078c807f7f258dd1b04def14a7454acaff49d9b168547b497ee70c69",
+        "signature": "00030f6b3b09bef33d24dc5b2d63c0027a63e66e7c2dc89e85b54c72cdff5358",
         "affectsGlobalScope": false
       },
-      "./src/lib/arguments/ArgumentType.ts": {
+      "./src/lib/arguments/argumenttype.ts": {
         "version": "aa01ff8c5210ae3485a3458dc8e4463353b4d3627babd01639d8cba0818acd39",
-        "signature": "796fb4ce1215b485d07376568677d05ebd40639342e8ae52a62a8307048278db",
+        "signature": "58bcb9e732b77240d6ccc69e217237f4d1e2f74f7aa557260999f50bc14c9747",
         "affectsGlobalScope": false
       },
-      "./src/lib/suggestion/SuggestionProvider.ts": {
+      "./src/lib/suggestion/suggestionprovider.ts": {
         "version": "ca03e3ace945c50ab6a41b7c452d609ed2001d8e8a787f56e2bd5b37cb259d5e",
-        "signature": "3817b7599858b39b8bb6853d25371c0aa6c45b0ab10579ded59aa106ba94e334",
+        "signature": "e01000c205612c5eaed426a1c147decb7cd746054ba679aecc5b7ce86df35068",
         "affectsGlobalScope": false
       },
-      "./src/lib/tree/ArgumentCommandNode.ts": {
+      "./src/lib/tree/argumentcommandnode.ts": {
         "version": "dd17936591f9c1cab658fa223511c52e8e0a7099997e37b25ba593e99cab740d",
-        "signature": "e154c5993fe71e0f64757e085b2016b0385df0d6335e834617e2d9f7fd71188d",
+        "signature": "7978458094b0fadb993295193390a7b102be80aac8cf716f1803757a860154b8",
         "affectsGlobalScope": false
       },
-      "./src/lib/builder/RequiredArgumentBuilder.ts": {
+      "./src/lib/builder/requiredargumentbuilder.ts": {
         "version": "9e50711610d113670612ea40185a2c7a475b3c4095e2964207ab2fdd46d557bd",
-        "signature": "83887fe35cc25aec9bfa55b12a341932fb718415684e647ec002729ba7c1364b",
+        "signature": "fab692a08b2c572e6912669333e967c261d721eb667c953e773f921877dd43a6",
         "affectsGlobalScope": false
       },
       "./src/index.ts": {
         "version": "305cabbbdef71206042fa03af85c43c064c2bb57c77f7e30ef112284c979f3bc",
-        "signature": "4c4b2c457bf444361400372be1e8de893777d032a41131af3f0cc8e1be6831ec",
+        "signature": "d050c05f29680443221592fe58e7abd759b2eb8bdbdacc7fe7f6c0f5874f92f4",
         "affectsGlobalScope": false
       },
       "./node_modules/@types/node/globals.d.ts": {
@@ -462,13 +477,13 @@
         "affectsGlobalScope": false
       },
       "./node_modules/@types/node/domain.d.ts": {
-        "version": "ae3487bdb9b50c1d8bbeb6b55c8b2b9aa79bbc46d7afbc3483169ad8750c4304",
-        "signature": "ae3487bdb9b50c1d8bbeb6b55c8b2b9aa79bbc46d7afbc3483169ad8750c4304",
+        "version": "985c3d1b62a4a4f563e3ca3e3a47717cff7d82c81883d62ecf08d8417eb477c4",
+        "signature": "985c3d1b62a4a4f563e3ca3e3a47717cff7d82c81883d62ecf08d8417eb477c4",
         "affectsGlobalScope": false
       },
       "./node_modules/@types/node/events.d.ts": {
-        "version": "c53b63229a0b7e9d64347c4fc975dd52a9e9a81f9be099f5a21220e2a1276d28",
-        "signature": "c53b63229a0b7e9d64347c4fc975dd52a9e9a81f9be099f5a21220e2a1276d28",
+        "version": "8059976d7f408e08be353de1833172139bbaa70fc33d01b98249f7226c122119",
+        "signature": "8059976d7f408e08be353de1833172139bbaa70fc33d01b98249f7226c122119",
         "affectsGlobalScope": false
       },
       "./node_modules/@types/node/fs.d.ts": {
@@ -547,8 +562,8 @@
         "affectsGlobalScope": false
       },
       "./node_modules/@types/node/stream.d.ts": {
-        "version": "0cc45ab68b66bc63c9a0bc4f097c9f5b734c62190695ebd5b696dc3a4e2ecb3b",
-        "signature": "0cc45ab68b66bc63c9a0bc4f097c9f5b734c62190695ebd5b696dc3a4e2ecb3b",
+        "version": "8e2f9031210a8fc27af8844bf69f964307d6013c90336bea9fb5d6ba43248c78",
+        "signature": "8e2f9031210a8fc27af8844bf69f964307d6013c90336bea9fb5d6ba43248c78",
         "affectsGlobalScope": false
       },
       "./node_modules/@types/node/string_decoder.d.ts": {
@@ -627,8 +642,8 @@
         "affectsGlobalScope": false
       },
       "./node_modules/@types/mocha/index.d.ts": {
-        "version": "c4c03cf65951d980ba618ae9601d10438730803fc9c8a1f7b34af8739981e205",
-        "signature": "c4c03cf65951d980ba618ae9601d10438730803fc9c8a1f7b34af8739981e205",
+        "version": "a3a5fc3a8b77a1b96277eff237a15d065d525a6c1c66b303dc98be708e30e7f8",
+        "signature": "a3a5fc3a8b77a1b96277eff237a15d065d525a6c1c66b303dc98be708e30e7f8",
         "affectsGlobalScope": true
       }
     },
@@ -689,6 +704,9 @@
       "./node_modules/@types/node/domain.d.ts": [
         "./node_modules/@types/node/events.d.ts"
       ],
+      "./node_modules/@types/node/events.d.ts": [
+        "./node_modules/@types/node/events.d.ts"
+      ],
       "./node_modules/@types/node/fs.d.ts": [
         "./node_modules/@types/node/events.d.ts",
         "./node_modules/@types/node/stream.d.ts",
@@ -803,273 +821,273 @@
         "./node_modules/@types/node/stream.d.ts"
       ],
       "./src/index.ts": [
-        "./src/lib/CommandDispatcher.ts",
-        "./src/lib/LiteralMessage.ts",
-        "./src/lib/ParseResults.ts",
-        "./src/lib/StringReader.ts",
-        "./src/lib/arguments/ArgumentType.ts",
-        "./src/lib/builder/LiteralArgumentBuilder.ts",
-        "./src/lib/builder/RequiredArgumentBuilder.ts",
-        "./src/lib/context/CommandContext.ts",
-        "./src/lib/context/CommandContextBuilder.ts",
-        "./src/lib/context/ParsedArgument.ts",
-        "./src/lib/context/ParsedCommandNode.ts",
-        "./src/lib/context/StringRange.ts",
-        "./src/lib/context/SuggestionContext.ts",
-        "./src/lib/exceptions/CommandSyntaxException.ts",
-        "./src/lib/exceptions/DynamicCommandExceptionType.ts",
-        "./src/lib/exceptions/SimpleCommandExceptionType.ts",
-        "./src/lib/suggestion/Suggestion.ts",
-        "./src/lib/suggestion/Suggestions.ts",
-        "./src/lib/suggestion/SuggestionsBuilder.ts",
-        "./src/lib/tree/ArgumentCommandNode.ts",
-        "./src/lib/tree/LiteralCommandNode.ts",
-        "./src/lib/tree/RootCommandNode.ts"
+        "./src/lib/arguments/argumenttype.ts",
+        "./src/lib/builder/literalargumentbuilder.ts",
+        "./src/lib/builder/requiredargumentbuilder.ts",
+        "./src/lib/commanddispatcher.ts",
+        "./src/lib/context/commandcontext.ts",
+        "./src/lib/context/commandcontextbuilder.ts",
+        "./src/lib/context/parsedargument.ts",
+        "./src/lib/context/parsedcommandnode.ts",
+        "./src/lib/context/stringrange.ts",
+        "./src/lib/context/suggestioncontext.ts",
+        "./src/lib/exceptions/commandsyntaxexception.ts",
+        "./src/lib/exceptions/dynamiccommandexceptiontype.ts",
+        "./src/lib/exceptions/simplecommandexceptiontype.ts",
+        "./src/lib/literalmessage.ts",
+        "./src/lib/parseresults.ts",
+        "./src/lib/stringreader.ts",
+        "./src/lib/suggestion/suggestion.ts",
+        "./src/lib/suggestion/suggestions.ts",
+        "./src/lib/suggestion/suggestionsbuilder.ts",
+        "./src/lib/tree/argumentcommandnode.ts",
+        "./src/lib/tree/literalcommandnode.ts",
+        "./src/lib/tree/rootcommandnode.ts"
       ],
-      "./src/lib/AmbiguityConsumer.ts": [
-        "./src/lib/tree/CommandNode.ts"
+      "./src/lib/ambiguityconsumer.ts": [
+        "./src/lib/tree/commandnode.ts"
       ],
-      "./src/lib/Command.ts": [
-        "./src/lib/context/CommandContext.ts"
+      "./src/lib/arguments/argumenttype.ts": [
+        "./src/lib/arguments/boolargumenttype.ts",
+        "./src/lib/arguments/floatargumenttype.ts",
+        "./src/lib/arguments/integerargumenttype.ts",
+        "./src/lib/arguments/stringargumenttype.ts",
+        "./src/lib/context/commandcontext.ts",
+        "./src/lib/stringreader.ts",
+        "./src/lib/suggestion/suggestions.ts",
+        "./src/lib/suggestion/suggestionsbuilder.ts"
       ],
-      "./src/lib/CommandDispatcher.ts": [
-        "./src/lib/AmbiguityConsumer.ts",
-        "./src/lib/ParseResults.ts",
-        "./src/lib/RedirectModifier.ts",
-        "./src/lib/ResultConsumer.ts",
-        "./src/lib/StringReader.ts",
-        "./src/lib/builder/LiteralArgumentBuilder.ts",
-        "./src/lib/context/CommandContext.ts",
-        "./src/lib/context/CommandContextBuilder.ts",
-        "./src/lib/context/SuggestionContext.ts",
-        "./src/lib/exceptions/CommandSyntaxException.ts",
-        "./src/lib/suggestion/Suggestions.ts",
-        "./src/lib/suggestion/SuggestionsBuilder.ts",
-        "./src/lib/tree/CommandNode.ts",
-        "./src/lib/tree/LiteralCommandNode.ts",
-        "./src/lib/tree/RootCommandNode.ts"
+      "./src/lib/arguments/boolargumenttype.ts": [
+        "./src/lib/arguments/argumenttype.ts",
+        "./src/lib/context/commandcontext.ts",
+        "./src/lib/stringreader.ts",
+        "./src/lib/suggestion/suggestions.ts",
+        "./src/lib/suggestion/suggestionsbuilder.ts"
       ],
-      "./src/lib/LiteralMessage.ts": [
-        "./src/lib/Message.ts"
+      "./src/lib/arguments/floatargumenttype.ts": [
+        "./src/lib/arguments/argumenttype.ts",
+        "./src/lib/context/commandcontext.ts",
+        "./src/lib/exceptions/commandsyntaxexception.ts",
+        "./src/lib/stringreader.ts",
+        "./src/lib/suggestion/suggestions.ts",
+        "./src/lib/suggestion/suggestionsbuilder.ts"
       ],
-      "./src/lib/ParseResults.ts": [
-        "./src/lib/ImmutableStringReader.ts",
-        "./src/lib/StringReader.ts",
-        "./src/lib/context/CommandContextBuilder.ts",
-        "./src/lib/exceptions/CommandSyntaxException.ts",
-        "./src/lib/tree/CommandNode.ts"
+      "./src/lib/arguments/integerargumenttype.ts": [
+        "./src/lib/arguments/argumenttype.ts",
+        "./src/lib/context/commandcontext.ts",
+        "./src/lib/exceptions/commandsyntaxexception.ts",
+        "./src/lib/stringreader.ts",
+        "./src/lib/suggestion/suggestions.ts",
+        "./src/lib/suggestion/suggestionsbuilder.ts"
       ],
-      "./src/lib/RedirectModifier.ts": [
-        "./src/lib/context/CommandContext.ts"
+      "./src/lib/arguments/stringargumenttype.ts": [
+        "./src/lib/arguments/argumenttype.ts",
+        "./src/lib/context/commandcontext.ts",
+        "./src/lib/stringreader.ts",
+        "./src/lib/suggestion/suggestions.ts",
+        "./src/lib/suggestion/suggestionsbuilder.ts"
       ],
-      "./src/lib/ResultConsumer.ts": [
-        "./src/lib/context/CommandContext.ts"
+      "./src/lib/builder/argumentbuilder.ts": [
+        "./src/lib/command.ts",
+        "./src/lib/context/commandcontext.ts",
+        "./src/lib/predicate.ts",
+        "./src/lib/redirectmodifier.ts",
+        "./src/lib/singleredirectmodifier.ts",
+        "./src/lib/tree/commandnode.ts",
+        "./src/lib/tree/rootcommandnode.ts"
       ],
-      "./src/lib/SingleRedirectModifier.ts": [
-        "./src/lib/context/CommandContext.ts"
+      "./src/lib/builder/literalargumentbuilder.ts": [
+        "./src/lib/builder/argumentbuilder.ts",
+        "./src/lib/tree/literalcommandnode.ts"
       ],
-      "./src/lib/StringReader.ts": [
-        "./src/lib/ImmutableStringReader.ts",
-        "./src/lib/exceptions/CommandSyntaxException.ts"
+      "./src/lib/builder/requiredargumentbuilder.ts": [
+        "./src/lib/arguments/argumenttype.ts",
+        "./src/lib/builder/argumentbuilder.ts",
+        "./src/lib/suggestion/suggestionprovider.ts",
+        "./src/lib/tree/argumentcommandnode.ts"
       ],
-      "./src/lib/arguments/ArgumentType.ts": [
-        "./src/lib/StringReader.ts",
-        "./src/lib/arguments/BoolArgumentType.ts",
-        "./src/lib/arguments/FloatArgumentType.ts",
-        "./src/lib/arguments/IntegerArgumentType.ts",
-        "./src/lib/arguments/StringArgumentType.ts",
-        "./src/lib/context/CommandContext.ts",
-        "./src/lib/suggestion/Suggestions.ts",
-        "./src/lib/suggestion/SuggestionsBuilder.ts"
+      "./src/lib/command.ts": [
+        "./src/lib/context/commandcontext.ts"
       ],
-      "./src/lib/arguments/BoolArgumentType.ts": [
-        "./src/lib/StringReader.ts",
-        "./src/lib/arguments/ArgumentType.ts",
-        "./src/lib/context/CommandContext.ts",
-        "./src/lib/suggestion/Suggestions.ts",
-        "./src/lib/suggestion/SuggestionsBuilder.ts"
+      "./src/lib/commanddispatcher.ts": [
+        "./src/lib/ambiguityconsumer.ts",
+        "./src/lib/builder/literalargumentbuilder.ts",
+        "./src/lib/context/commandcontext.ts",
+        "./src/lib/context/commandcontextbuilder.ts",
+        "./src/lib/context/suggestioncontext.ts",
+        "./src/lib/exceptions/commandsyntaxexception.ts",
+        "./src/lib/parseresults.ts",
+        "./src/lib/redirectmodifier.ts",
+        "./src/lib/resultconsumer.ts",
+        "./src/lib/stringreader.ts",
+        "./src/lib/suggestion/suggestions.ts",
+        "./src/lib/suggestion/suggestionsbuilder.ts",
+        "./src/lib/tree/commandnode.ts",
+        "./src/lib/tree/literalcommandnode.ts",
+        "./src/lib/tree/rootcommandnode.ts"
       ],
-      "./src/lib/arguments/FloatArgumentType.ts": [
-        "./src/lib/StringReader.ts",
-        "./src/lib/arguments/ArgumentType.ts",
-        "./src/lib/context/CommandContext.ts",
-        "./src/lib/exceptions/CommandSyntaxException.ts",
-        "./src/lib/suggestion/Suggestions.ts",
-        "./src/lib/suggestion/SuggestionsBuilder.ts"
+      "./src/lib/context/commandcontext.ts": [
+        "./src/lib/command.ts",
+        "./src/lib/context/parsedargument.ts",
+        "./src/lib/context/parsedcommandnode.ts",
+        "./src/lib/context/stringrange.ts",
+        "./src/lib/redirectmodifier.ts",
+        "./src/lib/tree/commandnode.ts",
+        "./src/lib/util/isequal.ts"
       ],
-      "./src/lib/arguments/IntegerArgumentType.ts": [
-        "./src/lib/StringReader.ts",
-        "./src/lib/arguments/ArgumentType.ts",
-        "./src/lib/context/CommandContext.ts",
-        "./src/lib/exceptions/CommandSyntaxException.ts",
-        "./src/lib/suggestion/Suggestions.ts",
-        "./src/lib/suggestion/SuggestionsBuilder.ts"
+      "./src/lib/context/commandcontextbuilder.ts": [
+        "./src/lib/command.ts",
+        "./src/lib/commanddispatcher.ts",
+        "./src/lib/context/commandcontext.ts",
+        "./src/lib/context/parsedargument.ts",
+        "./src/lib/context/parsedcommandnode.ts",
+        "./src/lib/context/stringrange.ts",
+        "./src/lib/context/suggestioncontext.ts",
+        "./src/lib/redirectmodifier.ts",
+        "./src/lib/tree/commandnode.ts"
       ],
-      "./src/lib/arguments/StringArgumentType.ts": [
-        "./src/lib/StringReader.ts",
-        "./src/lib/arguments/ArgumentType.ts",
-        "./src/lib/context/CommandContext.ts",
-        "./src/lib/suggestion/Suggestions.ts",
-        "./src/lib/suggestion/SuggestionsBuilder.ts"
+      "./src/lib/context/parsedargument.ts": [
+        "./src/lib/context/stringrange.ts"
       ],
-      "./src/lib/builder/ArgumentBuilder.ts": [
-        "./src/lib/Command.ts",
-        "./src/lib/Predicate.ts",
-        "./src/lib/RedirectModifier.ts",
-        "./src/lib/SingleRedirectModifier.ts",
-        "./src/lib/context/CommandContext.ts",
-        "./src/lib/tree/CommandNode.ts",
-        "./src/lib/tree/RootCommandNode.ts"
+      "./src/lib/context/parsedcommandnode.ts": [
+        "./src/lib/context/stringrange.ts",
+        "./src/lib/tree/commandnode.ts"
       ],
-      "./src/lib/builder/LiteralArgumentBuilder.ts": [
-        "./src/lib/builder/ArgumentBuilder.ts",
-        "./src/lib/tree/LiteralCommandNode.ts"
+      "./src/lib/context/stringrange.ts": [
+        "./src/lib/immutablestringreader.ts"
       ],
-      "./src/lib/builder/RequiredArgumentBuilder.ts": [
-        "./src/lib/arguments/ArgumentType.ts",
-        "./src/lib/builder/ArgumentBuilder.ts",
-        "./src/lib/suggestion/SuggestionProvider.ts",
-        "./src/lib/tree/ArgumentCommandNode.ts"
+      "./src/lib/context/suggestioncontext.ts": [
+        "./src/lib/tree/commandnode.ts"
       ],
-      "./src/lib/context/CommandContext.ts": [
-        "./src/lib/Command.ts",
-        "./src/lib/RedirectModifier.ts",
-        "./src/lib/context/ParsedArgument.ts",
-        "./src/lib/context/ParsedCommandNode.ts",
-        "./src/lib/context/StringRange.ts",
-        "./src/lib/tree/CommandNode.ts",
-        "./src/lib/util/isEqual.ts"
+      "./src/lib/exceptions/builtinexceptionprovider.ts": [
+        "./src/lib/exceptions/dynamiccommandexceptiontype.ts",
+        "./src/lib/exceptions/simplecommandexceptiontype.ts"
       ],
-      "./src/lib/context/CommandContextBuilder.ts": [
-        "./src/lib/Command.ts",
-        "./src/lib/CommandDispatcher.ts",
-        "./src/lib/RedirectModifier.ts",
-        "./src/lib/context/CommandContext.ts",
-        "./src/lib/context/ParsedArgument.ts",
-        "./src/lib/context/ParsedCommandNode.ts",
-        "./src/lib/context/StringRange.ts",
-        "./src/lib/context/SuggestionContext.ts",
-        "./src/lib/tree/CommandNode.ts"
+      "./src/lib/exceptions/builtinexceptions.ts": [
+        "./src/lib/exceptions/builtinexceptionprovider.ts",
+        "./src/lib/exceptions/dynamiccommandexceptiontype.ts",
+        "./src/lib/exceptions/simplecommandexceptiontype.ts",
+        "./src/lib/literalmessage.ts"
       ],
-      "./src/lib/context/ParsedArgument.ts": [
-        "./src/lib/context/StringRange.ts"
+      "./src/lib/exceptions/commandsyntaxexception.ts": [
+        "./src/lib/exceptions/builtinexceptionprovider.ts",
+        "./src/lib/exceptions/builtinexceptions.ts",
+        "./src/lib/exceptions/commandexceptiontype.ts",
+        "./src/lib/message.ts"
       ],
-      "./src/lib/context/ParsedCommandNode.ts": [
-        "./src/lib/context/StringRange.ts",
-        "./src/lib/tree/CommandNode.ts"
+      "./src/lib/exceptions/dynamiccommandexceptiontype.ts": [
+        "./src/lib/exceptions/commandexceptiontype.ts",
+        "./src/lib/exceptions/commandsyntaxexception.ts",
+        "./src/lib/immutablestringreader.ts",
+        "./src/lib/message.ts"
       ],
-      "./src/lib/context/StringRange.ts": [
-        "./src/lib/ImmutableStringReader.ts"
+      "./src/lib/exceptions/simplecommandexceptiontype.ts": [
+        "./src/lib/exceptions/commandexceptiontype.ts",
+        "./src/lib/exceptions/commandsyntaxexception.ts",
+        "./src/lib/immutablestringreader.ts",
+        "./src/lib/message.ts"
       ],
-      "./src/lib/context/SuggestionContext.ts": [
-        "./src/lib/tree/CommandNode.ts"
+      "./src/lib/literalmessage.ts": [
+        "./src/lib/message.ts"
       ],
-      "./src/lib/exceptions/BuiltInExceptionProvider.ts": [
-        "./src/lib/exceptions/DynamicCommandExceptionType.ts",
-        "./src/lib/exceptions/SimpleCommandExceptionType.ts"
+      "./src/lib/parseresults.ts": [
+        "./src/lib/context/commandcontextbuilder.ts",
+        "./src/lib/exceptions/commandsyntaxexception.ts",
+        "./src/lib/immutablestringreader.ts",
+        "./src/lib/stringreader.ts",
+        "./src/lib/tree/commandnode.ts"
       ],
-      "./src/lib/exceptions/BuiltInExceptions.ts": [
-        "./src/lib/LiteralMessage.ts",
-        "./src/lib/exceptions/BuiltInExceptionProvider.ts",
-        "./src/lib/exceptions/DynamicCommandExceptionType.ts",
-        "./src/lib/exceptions/SimpleCommandExceptionType.ts"
+      "./src/lib/redirectmodifier.ts": [
+        "./src/lib/context/commandcontext.ts"
       ],
-      "./src/lib/exceptions/CommandSyntaxException.ts": [
-        "./src/lib/Message.ts",
-        "./src/lib/exceptions/BuiltInExceptionProvider.ts",
-        "./src/lib/exceptions/BuiltInExceptions.ts",
-        "./src/lib/exceptions/CommandExceptionType.ts"
+      "./src/lib/resultconsumer.ts": [
+        "./src/lib/context/commandcontext.ts"
       ],
-      "./src/lib/exceptions/DynamicCommandExceptionType.ts": [
-        "./src/lib/ImmutableStringReader.ts",
-        "./src/lib/Message.ts",
-        "./src/lib/exceptions/CommandExceptionType.ts",
-        "./src/lib/exceptions/CommandSyntaxException.ts"
+      "./src/lib/singleredirectmodifier.ts": [
+        "./src/lib/context/commandcontext.ts"
       ],
-      "./src/lib/exceptions/SimpleCommandExceptionType.ts": [
-        "./src/lib/ImmutableStringReader.ts",
-        "./src/lib/Message.ts",
-        "./src/lib/exceptions/CommandExceptionType.ts",
-        "./src/lib/exceptions/CommandSyntaxException.ts"
+      "./src/lib/stringreader.ts": [
+        "./src/lib/exceptions/commandsyntaxexception.ts",
+        "./src/lib/immutablestringreader.ts"
       ],
-      "./src/lib/suggestion/IntegerSuggestion.ts": [
-        "./src/lib/Message.ts",
-        "./src/lib/context/StringRange.ts",
-        "./src/lib/suggestion/Suggestion.ts"
+      "./src/lib/suggestion/integersuggestion.ts": [
+        "./src/lib/context/stringrange.ts",
+        "./src/lib/message.ts",
+        "./src/lib/suggestion/suggestion.ts"
       ],
-      "./src/lib/suggestion/Suggestion.ts": [
-        "./src/lib/Message.ts",
-        "./src/lib/context/StringRange.ts",
-        "./src/lib/util/isEqual.ts"
+      "./src/lib/suggestion/suggestion.ts": [
+        "./src/lib/context/stringrange.ts",
+        "./src/lib/message.ts",
+        "./src/lib/util/isequal.ts"
       ],
-      "./src/lib/suggestion/SuggestionProvider.ts": [
-        "./src/lib/context/CommandContext.ts",
-        "./src/lib/suggestion/Suggestions.ts",
-        "./src/lib/suggestion/SuggestionsBuilder.ts"
+      "./src/lib/suggestion/suggestionprovider.ts": [
+        "./src/lib/context/commandcontext.ts",
+        "./src/lib/suggestion/suggestions.ts",
+        "./src/lib/suggestion/suggestionsbuilder.ts"
       ],
-      "./src/lib/suggestion/Suggestions.ts": [
-        "./src/lib/context/StringRange.ts",
-        "./src/lib/suggestion/Suggestion.ts",
-        "./src/lib/util/isEqual.ts"
+      "./src/lib/suggestion/suggestions.ts": [
+        "./src/lib/context/stringrange.ts",
+        "./src/lib/suggestion/suggestion.ts",
+        "./src/lib/util/isequal.ts"
       ],
-      "./src/lib/suggestion/SuggestionsBuilder.ts": [
-        "./src/lib/Message.ts",
-        "./src/lib/context/StringRange.ts",
-        "./src/lib/suggestion/IntegerSuggestion.ts",
-        "./src/lib/suggestion/Suggestion.ts",
-        "./src/lib/suggestion/Suggestions.ts"
+      "./src/lib/suggestion/suggestionsbuilder.ts": [
+        "./src/lib/context/stringrange.ts",
+        "./src/lib/message.ts",
+        "./src/lib/suggestion/integersuggestion.ts",
+        "./src/lib/suggestion/suggestion.ts",
+        "./src/lib/suggestion/suggestions.ts"
       ],
-      "./src/lib/tree/ArgumentCommandNode.ts": [
-        "./src/lib/Command.ts",
-        "./src/lib/Predicate.ts",
-        "./src/lib/RedirectModifier.ts",
-        "./src/lib/StringReader.ts",
-        "./src/lib/arguments/ArgumentType.ts",
-        "./src/lib/builder/RequiredArgumentBuilder.ts",
-        "./src/lib/context/CommandContext.ts",
-        "./src/lib/context/CommandContextBuilder.ts",
-        "./src/lib/context/ParsedArgument.ts",
-        "./src/lib/suggestion/SuggestionProvider.ts",
-        "./src/lib/suggestion/Suggestions.ts",
-        "./src/lib/suggestion/SuggestionsBuilder.ts",
-        "./src/lib/tree/CommandNode.ts",
-        "./src/lib/util/isEqual.ts"
+      "./src/lib/tree/argumentcommandnode.ts": [
+        "./src/lib/arguments/argumenttype.ts",
+        "./src/lib/builder/requiredargumentbuilder.ts",
+        "./src/lib/command.ts",
+        "./src/lib/context/commandcontext.ts",
+        "./src/lib/context/commandcontextbuilder.ts",
+        "./src/lib/context/parsedargument.ts",
+        "./src/lib/predicate.ts",
+        "./src/lib/redirectmodifier.ts",
+        "./src/lib/stringreader.ts",
+        "./src/lib/suggestion/suggestionprovider.ts",
+        "./src/lib/suggestion/suggestions.ts",
+        "./src/lib/suggestion/suggestionsbuilder.ts",
+        "./src/lib/tree/commandnode.ts",
+        "./src/lib/util/isequal.ts"
       ],
-      "./src/lib/tree/CommandNode.ts": [
-        "./src/lib/AmbiguityConsumer.ts",
-        "./src/lib/Command.ts",
-        "./src/lib/Predicate.ts",
-        "./src/lib/RedirectModifier.ts",
-        "./src/lib/StringReader.ts",
-        "./src/lib/builder/ArgumentBuilder.ts",
-        "./src/lib/context/CommandContext.ts",
-        "./src/lib/context/CommandContextBuilder.ts",
-        "./src/lib/suggestion/Suggestions.ts",
-        "./src/lib/suggestion/SuggestionsBuilder.ts",
-        "./src/lib/util/isEqual.ts"
+      "./src/lib/tree/commandnode.ts": [
+        "./src/lib/ambiguityconsumer.ts",
+        "./src/lib/builder/argumentbuilder.ts",
+        "./src/lib/command.ts",
+        "./src/lib/context/commandcontext.ts",
+        "./src/lib/context/commandcontextbuilder.ts",
+        "./src/lib/predicate.ts",
+        "./src/lib/redirectmodifier.ts",
+        "./src/lib/stringreader.ts",
+        "./src/lib/suggestion/suggestions.ts",
+        "./src/lib/suggestion/suggestionsbuilder.ts",
+        "./src/lib/util/isequal.ts"
       ],
-      "./src/lib/tree/LiteralCommandNode.ts": [
-        "./src/lib/Command.ts",
-        "./src/lib/Predicate.ts",
-        "./src/lib/RedirectModifier.ts",
-        "./src/lib/StringReader.ts",
-        "./src/lib/builder/LiteralArgumentBuilder.ts",
-        "./src/lib/context/CommandContext.ts",
-        "./src/lib/context/CommandContextBuilder.ts",
-        "./src/lib/context/StringRange.ts",
-        "./src/lib/exceptions/CommandSyntaxException.ts",
-        "./src/lib/suggestion/Suggestions.ts",
-        "./src/lib/suggestion/SuggestionsBuilder.ts",
-        "./src/lib/tree/CommandNode.ts"
+      "./src/lib/tree/literalcommandnode.ts": [
+        "./src/lib/builder/literalargumentbuilder.ts",
+        "./src/lib/command.ts",
+        "./src/lib/context/commandcontext.ts",
+        "./src/lib/context/commandcontextbuilder.ts",
+        "./src/lib/context/stringrange.ts",
+        "./src/lib/exceptions/commandsyntaxexception.ts",
+        "./src/lib/predicate.ts",
+        "./src/lib/redirectmodifier.ts",
+        "./src/lib/stringreader.ts",
+        "./src/lib/suggestion/suggestions.ts",
+        "./src/lib/suggestion/suggestionsbuilder.ts",
+        "./src/lib/tree/commandnode.ts"
       ],
-      "./src/lib/tree/RootCommandNode.ts": [
-        "./src/lib/StringReader.ts",
-        "./src/lib/builder/ArgumentBuilder.ts",
-        "./src/lib/context/CommandContext.ts",
-        "./src/lib/context/CommandContextBuilder.ts",
-        "./src/lib/suggestion/Suggestions.ts",
-        "./src/lib/suggestion/SuggestionsBuilder.ts",
-        "./src/lib/tree/CommandNode.ts"
+      "./src/lib/tree/rootcommandnode.ts": [
+        "./src/lib/builder/argumentbuilder.ts",
+        "./src/lib/context/commandcontext.ts",
+        "./src/lib/context/commandcontextbuilder.ts",
+        "./src/lib/stringreader.ts",
+        "./src/lib/suggestion/suggestions.ts",
+        "./src/lib/suggestion/suggestionsbuilder.ts",
+        "./src/lib/tree/commandnode.ts"
       ]
     },
     "exportedModulesMap": {
@@ -1098,6 +1116,9 @@
       "./node_modules/@types/node/domain.d.ts": [
         "./node_modules/@types/node/events.d.ts"
       ],
+      "./node_modules/@types/node/events.d.ts": [
+        "./node_modules/@types/node/events.d.ts"
+      ],
       "./node_modules/@types/node/fs.d.ts": [
         "./node_modules/@types/node/events.d.ts",
         "./node_modules/@types/node/stream.d.ts",
@@ -1212,244 +1233,244 @@
         "./node_modules/@types/node/stream.d.ts"
       ],
       "./src/index.ts": [
-        "./src/lib/CommandDispatcher.ts",
-        "./src/lib/LiteralMessage.ts",
-        "./src/lib/ParseResults.ts",
-        "./src/lib/StringReader.ts",
-        "./src/lib/arguments/BoolArgumentType.ts",
-        "./src/lib/arguments/FloatArgumentType.ts",
-        "./src/lib/arguments/IntegerArgumentType.ts",
-        "./src/lib/arguments/StringArgumentType.ts",
-        "./src/lib/builder/LiteralArgumentBuilder.ts",
-        "./src/lib/builder/RequiredArgumentBuilder.ts",
-        "./src/lib/context/CommandContext.ts",
-        "./src/lib/context/CommandContextBuilder.ts",
-        "./src/lib/context/ParsedArgument.ts",
-        "./src/lib/context/ParsedCommandNode.ts",
-        "./src/lib/context/StringRange.ts",
-        "./src/lib/context/SuggestionContext.ts",
-        "./src/lib/exceptions/CommandSyntaxException.ts",
-        "./src/lib/exceptions/DynamicCommandExceptionType.ts",
-        "./src/lib/exceptions/SimpleCommandExceptionType.ts",
-        "./src/lib/suggestion/Suggestion.ts",
-        "./src/lib/suggestion/Suggestions.ts",
-        "./src/lib/suggestion/SuggestionsBuilder.ts",
-        "./src/lib/tree/ArgumentCommandNode.ts",
-        "./src/lib/tree/LiteralCommandNode.ts",
-        "./src/lib/tree/RootCommandNode.ts"
+        "./src/lib/arguments/boolargumenttype.ts",
+        "./src/lib/arguments/floatargumenttype.ts",
+        "./src/lib/arguments/integerargumenttype.ts",
+        "./src/lib/arguments/stringargumenttype.ts",
+        "./src/lib/builder/literalargumentbuilder.ts",
+        "./src/lib/builder/requiredargumentbuilder.ts",
+        "./src/lib/commanddispatcher.ts",
+        "./src/lib/context/commandcontext.ts",
+        "./src/lib/context/commandcontextbuilder.ts",
+        "./src/lib/context/parsedargument.ts",
+        "./src/lib/context/parsedcommandnode.ts",
+        "./src/lib/context/stringrange.ts",
+        "./src/lib/context/suggestioncontext.ts",
+        "./src/lib/exceptions/commandsyntaxexception.ts",
+        "./src/lib/exceptions/dynamiccommandexceptiontype.ts",
+        "./src/lib/exceptions/simplecommandexceptiontype.ts",
+        "./src/lib/literalmessage.ts",
+        "./src/lib/parseresults.ts",
+        "./src/lib/stringreader.ts",
+        "./src/lib/suggestion/suggestion.ts",
+        "./src/lib/suggestion/suggestions.ts",
+        "./src/lib/suggestion/suggestionsbuilder.ts",
+        "./src/lib/tree/argumentcommandnode.ts",
+        "./src/lib/tree/literalcommandnode.ts",
+        "./src/lib/tree/rootcommandnode.ts"
       ],
-      "./src/lib/AmbiguityConsumer.ts": [
-        "./src/lib/tree/CommandNode.ts"
+      "./src/lib/ambiguityconsumer.ts": [
+        "./src/lib/tree/commandnode.ts"
       ],
-      "./src/lib/Command.ts": [
-        "./src/lib/context/CommandContext.ts"
+      "./src/lib/arguments/argumenttype.ts": [
+        "./src/lib/arguments/boolargumenttype.ts",
+        "./src/lib/arguments/floatargumenttype.ts",
+        "./src/lib/arguments/integerargumenttype.ts",
+        "./src/lib/arguments/stringargumenttype.ts",
+        "./src/lib/context/commandcontext.ts",
+        "./src/lib/stringreader.ts",
+        "./src/lib/suggestion/suggestions.ts",
+        "./src/lib/suggestion/suggestionsbuilder.ts"
       ],
-      "./src/lib/CommandDispatcher.ts": [
-        "./src/lib/AmbiguityConsumer.ts",
-        "./src/lib/ParseResults.ts",
-        "./src/lib/ResultConsumer.ts",
-        "./src/lib/StringReader.ts",
-        "./src/lib/builder/LiteralArgumentBuilder.ts",
-        "./src/lib/suggestion/Suggestions.ts",
-        "./src/lib/tree/CommandNode.ts",
-        "./src/lib/tree/LiteralCommandNode.ts",
-        "./src/lib/tree/RootCommandNode.ts"
+      "./src/lib/arguments/boolargumenttype.ts": [
+        "./src/lib/arguments/argumenttype.ts",
+        "./src/lib/context/commandcontext.ts",
+        "./src/lib/stringreader.ts",
+        "./src/lib/suggestion/suggestions.ts",
+        "./src/lib/suggestion/suggestionsbuilder.ts"
       ],
-      "./src/lib/LiteralMessage.ts": [
-        "./src/lib/Message.ts"
+      "./src/lib/arguments/floatargumenttype.ts": [
+        "./src/lib/arguments/argumenttype.ts",
+        "./src/lib/context/commandcontext.ts",
+        "./src/lib/stringreader.ts"
       ],
-      "./src/lib/ParseResults.ts": [
-        "./src/lib/ImmutableStringReader.ts",
-        "./src/lib/context/CommandContextBuilder.ts",
-        "./src/lib/exceptions/CommandSyntaxException.ts",
-        "./src/lib/tree/CommandNode.ts"
+      "./src/lib/arguments/integerargumenttype.ts": [
+        "./src/lib/arguments/argumenttype.ts",
+        "./src/lib/context/commandcontext.ts",
+        "./src/lib/stringreader.ts"
       ],
-      "./src/lib/RedirectModifier.ts": [
-        "./src/lib/context/CommandContext.ts"
+      "./src/lib/arguments/stringargumenttype.ts": [
+        "./src/lib/arguments/argumenttype.ts",
+        "./src/lib/context/commandcontext.ts",
+        "./src/lib/stringreader.ts"
       ],
-      "./src/lib/ResultConsumer.ts": [
-        "./src/lib/context/CommandContext.ts"
+      "./src/lib/builder/argumentbuilder.ts": [
+        "./src/lib/command.ts",
+        "./src/lib/predicate.ts",
+        "./src/lib/redirectmodifier.ts",
+        "./src/lib/singleredirectmodifier.ts",
+        "./src/lib/tree/commandnode.ts"
       ],
-      "./src/lib/SingleRedirectModifier.ts": [
-        "./src/lib/context/CommandContext.ts"
+      "./src/lib/builder/literalargumentbuilder.ts": [
+        "./src/lib/builder/argumentbuilder.ts",
+        "./src/lib/tree/literalcommandnode.ts"
       ],
-      "./src/lib/StringReader.ts": [
-        "./src/lib/ImmutableStringReader.ts"
+      "./src/lib/builder/requiredargumentbuilder.ts": [
+        "./src/lib/arguments/argumenttype.ts",
+        "./src/lib/builder/argumentbuilder.ts",
+        "./src/lib/suggestion/suggestionprovider.ts",
+        "./src/lib/tree/argumentcommandnode.ts"
       ],
-      "./src/lib/arguments/ArgumentType.ts": [
-        "./src/lib/StringReader.ts",
-        "./src/lib/arguments/BoolArgumentType.ts",
-        "./src/lib/arguments/FloatArgumentType.ts",
-        "./src/lib/arguments/IntegerArgumentType.ts",
-        "./src/lib/arguments/StringArgumentType.ts",
-        "./src/lib/context/CommandContext.ts",
-        "./src/lib/suggestion/Suggestions.ts",
-        "./src/lib/suggestion/SuggestionsBuilder.ts"
+      "./src/lib/command.ts": [
+        "./src/lib/context/commandcontext.ts"
       ],
-      "./src/lib/arguments/BoolArgumentType.ts": [
-        "./src/lib/StringReader.ts",
-        "./src/lib/arguments/ArgumentType.ts",
-        "./src/lib/context/CommandContext.ts",
-        "./src/lib/suggestion/Suggestions.ts",
-        "./src/lib/suggestion/SuggestionsBuilder.ts"
+      "./src/lib/commanddispatcher.ts": [
+        "./src/lib/ambiguityconsumer.ts",
+        "./src/lib/builder/literalargumentbuilder.ts",
+        "./src/lib/parseresults.ts",
+        "./src/lib/resultconsumer.ts",
+        "./src/lib/stringreader.ts",
+        "./src/lib/suggestion/suggestions.ts",
+        "./src/lib/tree/commandnode.ts",
+        "./src/lib/tree/literalcommandnode.ts",
+        "./src/lib/tree/rootcommandnode.ts"
       ],
-      "./src/lib/arguments/FloatArgumentType.ts": [
-        "./src/lib/StringReader.ts",
-        "./src/lib/arguments/ArgumentType.ts",
-        "./src/lib/context/CommandContext.ts"
+      "./src/lib/context/commandcontext.ts": [
+        "./src/lib/command.ts",
+        "./src/lib/context/parsedargument.ts",
+        "./src/lib/context/parsedcommandnode.ts",
+        "./src/lib/context/stringrange.ts",
+        "./src/lib/redirectmodifier.ts",
+        "./src/lib/tree/commandnode.ts"
       ],
-      "./src/lib/arguments/IntegerArgumentType.ts": [
-        "./src/lib/StringReader.ts",
-        "./src/lib/arguments/ArgumentType.ts",
-        "./src/lib/context/CommandContext.ts"
+      "./src/lib/context/commandcontextbuilder.ts": [
+        "./src/lib/command.ts",
+        "./src/lib/commanddispatcher.ts",
+        "./src/lib/context/commandcontext.ts",
+        "./src/lib/context/parsedargument.ts",
+        "./src/lib/context/parsedcommandnode.ts",
+        "./src/lib/context/stringrange.ts",
+        "./src/lib/context/suggestioncontext.ts",
+        "./src/lib/tree/commandnode.ts"
       ],
-      "./src/lib/arguments/StringArgumentType.ts": [
-        "./src/lib/StringReader.ts",
-        "./src/lib/arguments/ArgumentType.ts",
-        "./src/lib/context/CommandContext.ts"
+      "./src/lib/context/parsedargument.ts": [
+        "./src/lib/context/stringrange.ts"
       ],
-      "./src/lib/builder/ArgumentBuilder.ts": [
-        "./src/lib/Command.ts",
-        "./src/lib/Predicate.ts",
-        "./src/lib/RedirectModifier.ts",
-        "./src/lib/SingleRedirectModifier.ts",
-        "./src/lib/tree/CommandNode.ts"
+      "./src/lib/context/parsedcommandnode.ts": [
+        "./src/lib/context/stringrange.ts",
+        "./src/lib/tree/commandnode.ts"
       ],
-      "./src/lib/builder/LiteralArgumentBuilder.ts": [
-        "./src/lib/builder/ArgumentBuilder.ts",
-        "./src/lib/tree/LiteralCommandNode.ts"
+      "./src/lib/context/stringrange.ts": [
+        "./src/lib/immutablestringreader.ts"
       ],
-      "./src/lib/builder/RequiredArgumentBuilder.ts": [
-        "./src/lib/arguments/ArgumentType.ts",
-        "./src/lib/builder/ArgumentBuilder.ts",
-        "./src/lib/suggestion/SuggestionProvider.ts",
-        "./src/lib/tree/ArgumentCommandNode.ts"
+      "./src/lib/context/suggestioncontext.ts": [
+        "./src/lib/tree/commandnode.ts"
       ],
-      "./src/lib/context/CommandContext.ts": [
-        "./src/lib/Command.ts",
-        "./src/lib/RedirectModifier.ts",
-        "./src/lib/context/ParsedArgument.ts",
-        "./src/lib/context/ParsedCommandNode.ts",
-        "./src/lib/context/StringRange.ts",
-        "./src/lib/tree/CommandNode.ts"
+      "./src/lib/exceptions/builtinexceptionprovider.ts": [
+        "./src/lib/exceptions/dynamiccommandexceptiontype.ts",
+        "./src/lib/exceptions/simplecommandexceptiontype.ts"
       ],
-      "./src/lib/context/CommandContextBuilder.ts": [
-        "./src/lib/Command.ts",
-        "./src/lib/CommandDispatcher.ts",
-        "./src/lib/context/CommandContext.ts",
-        "./src/lib/context/ParsedArgument.ts",
-        "./src/lib/context/ParsedCommandNode.ts",
-        "./src/lib/context/StringRange.ts",
-        "./src/lib/context/SuggestionContext.ts",
-        "./src/lib/tree/CommandNode.ts"
+      "./src/lib/exceptions/builtinexceptions.ts": [
+        "./src/lib/exceptions/builtinexceptionprovider.ts",
+        "./src/lib/exceptions/dynamiccommandexceptiontype.ts",
+        "./src/lib/exceptions/simplecommandexceptiontype.ts"
       ],
-      "./src/lib/context/ParsedArgument.ts": [
-        "./src/lib/context/StringRange.ts"
+      "./src/lib/exceptions/commandsyntaxexception.ts": [
+        "./src/lib/exceptions/builtinexceptionprovider.ts",
+        "./src/lib/exceptions/commandexceptiontype.ts",
+        "./src/lib/message.ts"
       ],
-      "./src/lib/context/ParsedCommandNode.ts": [
-        "./src/lib/context/StringRange.ts",
-        "./src/lib/tree/CommandNode.ts"
+      "./src/lib/exceptions/dynamiccommandexceptiontype.ts": [
+        "./src/lib/exceptions/commandexceptiontype.ts",
+        "./src/lib/exceptions/commandsyntaxexception.ts",
+        "./src/lib/immutablestringreader.ts",
+        "./src/lib/message.ts"
       ],
-      "./src/lib/context/StringRange.ts": [
-        "./src/lib/ImmutableStringReader.ts"
+      "./src/lib/exceptions/simplecommandexceptiontype.ts": [
+        "./src/lib/exceptions/commandexceptiontype.ts",
+        "./src/lib/exceptions/commandsyntaxexception.ts",
+        "./src/lib/immutablestringreader.ts",
+        "./src/lib/message.ts"
       ],
-      "./src/lib/context/SuggestionContext.ts": [
-        "./src/lib/tree/CommandNode.ts"
+      "./src/lib/literalmessage.ts": [
+        "./src/lib/message.ts"
       ],
-      "./src/lib/exceptions/BuiltInExceptionProvider.ts": [
-        "./src/lib/exceptions/DynamicCommandExceptionType.ts",
-        "./src/lib/exceptions/SimpleCommandExceptionType.ts"
+      "./src/lib/parseresults.ts": [
+        "./src/lib/context/commandcontextbuilder.ts",
+        "./src/lib/exceptions/commandsyntaxexception.ts",
+        "./src/lib/immutablestringreader.ts",
+        "./src/lib/tree/commandnode.ts"
       ],
-      "./src/lib/exceptions/BuiltInExceptions.ts": [
-        "./src/lib/exceptions/BuiltInExceptionProvider.ts",
-        "./src/lib/exceptions/DynamicCommandExceptionType.ts",
-        "./src/lib/exceptions/SimpleCommandExceptionType.ts"
+      "./src/lib/redirectmodifier.ts": [
+        "./src/lib/context/commandcontext.ts"
       ],
-      "./src/lib/exceptions/CommandSyntaxException.ts": [
-        "./src/lib/Message.ts",
-        "./src/lib/exceptions/BuiltInExceptionProvider.ts",
-        "./src/lib/exceptions/CommandExceptionType.ts"
+      "./src/lib/resultconsumer.ts": [
+        "./src/lib/context/commandcontext.ts"
       ],
-      "./src/lib/exceptions/DynamicCommandExceptionType.ts": [
-        "./src/lib/ImmutableStringReader.ts",
-        "./src/lib/Message.ts",
-        "./src/lib/exceptions/CommandExceptionType.ts",
-        "./src/lib/exceptions/CommandSyntaxException.ts"
+      "./src/lib/singleredirectmodifier.ts": [
+        "./src/lib/context/commandcontext.ts"
       ],
-      "./src/lib/exceptions/SimpleCommandExceptionType.ts": [
-        "./src/lib/ImmutableStringReader.ts",
-        "./src/lib/Message.ts",
-        "./src/lib/exceptions/CommandExceptionType.ts",
-        "./src/lib/exceptions/CommandSyntaxException.ts"
+      "./src/lib/stringreader.ts": [
+        "./src/lib/immutablestringreader.ts"
       ],
-      "./src/lib/suggestion/IntegerSuggestion.ts": [
-        "./src/lib/Message.ts",
-        "./src/lib/context/StringRange.ts",
-        "./src/lib/suggestion/Suggestion.ts"
+      "./src/lib/suggestion/integersuggestion.ts": [
+        "./src/lib/context/stringrange.ts",
+        "./src/lib/message.ts",
+        "./src/lib/suggestion/suggestion.ts"
       ],
-      "./src/lib/suggestion/Suggestion.ts": [
-        "./src/lib/Message.ts",
-        "./src/lib/context/StringRange.ts"
+      "./src/lib/suggestion/suggestion.ts": [
+        "./src/lib/context/stringrange.ts",
+        "./src/lib/message.ts"
       ],
-      "./src/lib/suggestion/SuggestionProvider.ts": [
-        "./src/lib/context/CommandContext.ts",
-        "./src/lib/suggestion/Suggestions.ts",
-        "./src/lib/suggestion/SuggestionsBuilder.ts"
+      "./src/lib/suggestion/suggestionprovider.ts": [
+        "./src/lib/context/commandcontext.ts",
+        "./src/lib/suggestion/suggestions.ts",
+        "./src/lib/suggestion/suggestionsbuilder.ts"
       ],
-      "./src/lib/suggestion/Suggestions.ts": [
-        "./src/lib/context/StringRange.ts",
-        "./src/lib/suggestion/Suggestion.ts"
+      "./src/lib/suggestion/suggestions.ts": [
+        "./src/lib/context/stringrange.ts",
+        "./src/lib/suggestion/suggestion.ts"
       ],
-      "./src/lib/suggestion/SuggestionsBuilder.ts": [
-        "./src/lib/Message.ts",
-        "./src/lib/suggestion/Suggestions.ts"
+      "./src/lib/suggestion/suggestionsbuilder.ts": [
+        "./src/lib/message.ts",
+        "./src/lib/suggestion/suggestions.ts"
       ],
-      "./src/lib/tree/ArgumentCommandNode.ts": [
-        "./src/lib/Command.ts",
-        "./src/lib/Predicate.ts",
-        "./src/lib/RedirectModifier.ts",
-        "./src/lib/StringReader.ts",
-        "./src/lib/arguments/ArgumentType.ts",
-        "./src/lib/builder/RequiredArgumentBuilder.ts",
-        "./src/lib/context/CommandContext.ts",
-        "./src/lib/context/CommandContextBuilder.ts",
-        "./src/lib/suggestion/SuggestionProvider.ts",
-        "./src/lib/suggestion/Suggestions.ts",
-        "./src/lib/suggestion/SuggestionsBuilder.ts",
-        "./src/lib/tree/CommandNode.ts"
+      "./src/lib/tree/argumentcommandnode.ts": [
+        "./src/lib/arguments/argumenttype.ts",
+        "./src/lib/builder/requiredargumentbuilder.ts",
+        "./src/lib/command.ts",
+        "./src/lib/context/commandcontext.ts",
+        "./src/lib/context/commandcontextbuilder.ts",
+        "./src/lib/predicate.ts",
+        "./src/lib/redirectmodifier.ts",
+        "./src/lib/stringreader.ts",
+        "./src/lib/suggestion/suggestionprovider.ts",
+        "./src/lib/suggestion/suggestions.ts",
+        "./src/lib/suggestion/suggestionsbuilder.ts",
+        "./src/lib/tree/commandnode.ts"
       ],
-      "./src/lib/tree/CommandNode.ts": [
-        "./src/lib/AmbiguityConsumer.ts",
-        "./src/lib/Command.ts",
-        "./src/lib/Predicate.ts",
-        "./src/lib/RedirectModifier.ts",
-        "./src/lib/StringReader.ts",
-        "./src/lib/builder/ArgumentBuilder.ts",
-        "./src/lib/context/CommandContext.ts",
-        "./src/lib/context/CommandContextBuilder.ts",
-        "./src/lib/suggestion/Suggestions.ts",
-        "./src/lib/suggestion/SuggestionsBuilder.ts"
+      "./src/lib/tree/commandnode.ts": [
+        "./src/lib/ambiguityconsumer.ts",
+        "./src/lib/builder/argumentbuilder.ts",
+        "./src/lib/command.ts",
+        "./src/lib/context/commandcontext.ts",
+        "./src/lib/context/commandcontextbuilder.ts",
+        "./src/lib/predicate.ts",
+        "./src/lib/redirectmodifier.ts",
+        "./src/lib/stringreader.ts",
+        "./src/lib/suggestion/suggestions.ts",
+        "./src/lib/suggestion/suggestionsbuilder.ts"
       ],
-      "./src/lib/tree/LiteralCommandNode.ts": [
-        "./src/lib/Command.ts",
-        "./src/lib/Predicate.ts",
-        "./src/lib/RedirectModifier.ts",
-        "./src/lib/StringReader.ts",
-        "./src/lib/builder/LiteralArgumentBuilder.ts",
-        "./src/lib/context/CommandContext.ts",
-        "./src/lib/context/CommandContextBuilder.ts",
-        "./src/lib/suggestion/Suggestions.ts",
-        "./src/lib/suggestion/SuggestionsBuilder.ts",
-        "./src/lib/tree/CommandNode.ts"
+      "./src/lib/tree/literalcommandnode.ts": [
+        "./src/lib/builder/literalargumentbuilder.ts",
+        "./src/lib/command.ts",
+        "./src/lib/context/commandcontext.ts",
+        "./src/lib/context/commandcontextbuilder.ts",
+        "./src/lib/predicate.ts",
+        "./src/lib/redirectmodifier.ts",
+        "./src/lib/stringreader.ts",
+        "./src/lib/suggestion/suggestions.ts",
+        "./src/lib/suggestion/suggestionsbuilder.ts",
+        "./src/lib/tree/commandnode.ts"
       ],
-      "./src/lib/tree/RootCommandNode.ts": [
-        "./src/lib/StringReader.ts",
-        "./src/lib/builder/ArgumentBuilder.ts",
-        "./src/lib/context/CommandContext.ts",
-        "./src/lib/context/CommandContextBuilder.ts",
-        "./src/lib/suggestion/Suggestions.ts",
-        "./src/lib/suggestion/SuggestionsBuilder.ts",
-        "./src/lib/tree/CommandNode.ts"
+      "./src/lib/tree/rootcommandnode.ts": [
+        "./src/lib/builder/argumentbuilder.ts",
+        "./src/lib/context/commandcontext.ts",
+        "./src/lib/context/commandcontextbuilder.ts",
+        "./src/lib/stringreader.ts",
+        "./src/lib/suggestion/suggestions.ts",
+        "./src/lib/suggestion/suggestionsbuilder.ts",
+        "./src/lib/tree/commandnode.ts"
       ]
     },
     "semanticDiagnosticsPerFile": [
@@ -1528,7 +1549,9 @@
       "./node_modules/typescript/lib/lib.es2019.symbol.d.ts",
       "./node_modules/typescript/lib/lib.es2020.bigint.d.ts",
       "./node_modules/typescript/lib/lib.es2020.d.ts",
+      "./node_modules/typescript/lib/lib.es2020.intl.d.ts",
       "./node_modules/typescript/lib/lib.es2020.promise.d.ts",
+      "./node_modules/typescript/lib/lib.es2020.sharedmemory.d.ts",
       "./node_modules/typescript/lib/lib.es2020.string.d.ts",
       "./node_modules/typescript/lib/lib.es2020.symbol.wellknown.d.ts",
       "./node_modules/typescript/lib/lib.es5.d.ts",
@@ -1536,50 +1559,51 @@
       "./node_modules/typescript/lib/lib.esnext.intl.d.ts",
       "./node_modules/typescript/lib/lib.esnext.promise.d.ts",
       "./node_modules/typescript/lib/lib.esnext.string.d.ts",
+      "./node_modules/typescript/lib/lib.esnext.weakref.d.ts",
       "./src/index.ts",
-      "./src/lib/AmbiguityConsumer.ts",
-      "./src/lib/Command.ts",
-      "./src/lib/CommandDispatcher.ts",
-      "./src/lib/ImmutableStringReader.ts",
-      "./src/lib/LiteralMessage.ts",
-      "./src/lib/Message.ts",
-      "./src/lib/ParseResults.ts",
-      "./src/lib/Predicate.ts",
-      "./src/lib/RedirectModifier.ts",
-      "./src/lib/ResultConsumer.ts",
-      "./src/lib/SingleRedirectModifier.ts",
-      "./src/lib/StringReader.ts",
-      "./src/lib/arguments/ArgumentType.ts",
-      "./src/lib/arguments/BoolArgumentType.ts",
-      "./src/lib/arguments/FloatArgumentType.ts",
-      "./src/lib/arguments/IntegerArgumentType.ts",
-      "./src/lib/arguments/StringArgumentType.ts",
-      "./src/lib/builder/ArgumentBuilder.ts",
-      "./src/lib/builder/LiteralArgumentBuilder.ts",
-      "./src/lib/builder/RequiredArgumentBuilder.ts",
-      "./src/lib/context/CommandContext.ts",
-      "./src/lib/context/CommandContextBuilder.ts",
-      "./src/lib/context/ParsedArgument.ts",
-      "./src/lib/context/ParsedCommandNode.ts",
-      "./src/lib/context/StringRange.ts",
-      "./src/lib/context/SuggestionContext.ts",
-      "./src/lib/exceptions/BuiltInExceptionProvider.ts",
-      "./src/lib/exceptions/BuiltInExceptions.ts",
-      "./src/lib/exceptions/CommandExceptionType.ts",
-      "./src/lib/exceptions/CommandSyntaxException.ts",
-      "./src/lib/exceptions/DynamicCommandExceptionType.ts",
-      "./src/lib/exceptions/SimpleCommandExceptionType.ts",
-      "./src/lib/suggestion/IntegerSuggestion.ts",
-      "./src/lib/suggestion/Suggestion.ts",
-      "./src/lib/suggestion/SuggestionProvider.ts",
-      "./src/lib/suggestion/Suggestions.ts",
-      "./src/lib/suggestion/SuggestionsBuilder.ts",
-      "./src/lib/tree/ArgumentCommandNode.ts",
-      "./src/lib/tree/CommandNode.ts",
-      "./src/lib/tree/LiteralCommandNode.ts",
-      "./src/lib/tree/RootCommandNode.ts",
-      "./src/lib/util/isEqual.ts"
+      "./src/lib/ambiguityconsumer.ts",
+      "./src/lib/arguments/argumenttype.ts",
+      "./src/lib/arguments/boolargumenttype.ts",
+      "./src/lib/arguments/floatargumenttype.ts",
+      "./src/lib/arguments/integerargumenttype.ts",
+      "./src/lib/arguments/stringargumenttype.ts",
+      "./src/lib/builder/argumentbuilder.ts",
+      "./src/lib/builder/literalargumentbuilder.ts",
+      "./src/lib/builder/requiredargumentbuilder.ts",
+      "./src/lib/command.ts",
+      "./src/lib/commanddispatcher.ts",
+      "./src/lib/context/commandcontext.ts",
+      "./src/lib/context/commandcontextbuilder.ts",
+      "./src/lib/context/parsedargument.ts",
+      "./src/lib/context/parsedcommandnode.ts",
+      "./src/lib/context/stringrange.ts",
+      "./src/lib/context/suggestioncontext.ts",
+      "./src/lib/exceptions/builtinexceptionprovider.ts",
+      "./src/lib/exceptions/builtinexceptions.ts",
+      "./src/lib/exceptions/commandexceptiontype.ts",
+      "./src/lib/exceptions/commandsyntaxexception.ts",
+      "./src/lib/exceptions/dynamiccommandexceptiontype.ts",
+      "./src/lib/exceptions/simplecommandexceptiontype.ts",
+      "./src/lib/immutablestringreader.ts",
+      "./src/lib/literalmessage.ts",
+      "./src/lib/message.ts",
+      "./src/lib/parseresults.ts",
+      "./src/lib/predicate.ts",
+      "./src/lib/redirectmodifier.ts",
+      "./src/lib/resultconsumer.ts",
+      "./src/lib/singleredirectmodifier.ts",
+      "./src/lib/stringreader.ts",
+      "./src/lib/suggestion/integersuggestion.ts",
+      "./src/lib/suggestion/suggestion.ts",
+      "./src/lib/suggestion/suggestionprovider.ts",
+      "./src/lib/suggestion/suggestions.ts",
+      "./src/lib/suggestion/suggestionsbuilder.ts",
+      "./src/lib/tree/argumentcommandnode.ts",
+      "./src/lib/tree/commandnode.ts",
+      "./src/lib/tree/literalcommandnode.ts",
+      "./src/lib/tree/rootcommandnode.ts",
+      "./src/lib/util/isequal.ts"
     ]
   },
-  "version": "3.9.7"
+  "version": "4.1.3"
 }

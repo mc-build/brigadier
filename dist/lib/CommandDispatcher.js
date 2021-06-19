@@ -118,6 +118,93 @@ class CommandDispatcher {
         }
         return result;
     }
+    async executeAsync(input, source = null) {
+        if (typeof input === 'string')
+            input = new StringReader_1.default(input);
+        let parse;
+        if (input instanceof StringReader_1.default) {
+            if (!(source == null))
+                parse = this.parse(input, source);
+        }
+        else
+            parse = input;
+        if (parse.getReader().canRead()) {
+            if (parse.getExceptions().size === 1) {
+                throw parse.getExceptions().values().next().value;
+            }
+            else if (parse.getContext().getRange().isEmpty()) {
+                throw CommandSyntaxException_1.default.BUILT_IN_EXCEPTIONS.dispatcherUnknownCommand().createWithContext(parse.getReader());
+            }
+            else {
+                throw CommandSyntaxException_1.default.BUILT_IN_EXCEPTIONS.dispatcherUnknownArgument().createWithContext(parse.getReader());
+            }
+        }
+        let result = [];
+        let successfulForks = 0;
+        let forked = false;
+        let foundCommand = false;
+        let command = parse.getReader().getString();
+        let original = parse.getContext().build(command);
+        let contexts = [];
+        contexts.push(original);
+        let next = null;
+        while (!(contexts == null)) {
+            for (let i = 0; i < contexts.length; i++) {
+                let context = contexts[i];
+                let child = context.getChild();
+                if (!(child == null)) {
+                    forked = forked || context.isForked();
+                    if (child.hasNodes()) {
+                        foundCommand = true;
+                        let modifier = context.getRedirectModifier();
+                        if (modifier == null) {
+                            if (next == null)
+                                next = [];
+                            next.push(child.copyFor(context.getSource()));
+                        }
+                        else {
+                            try {
+                                let results = modifier.apply(context);
+                                if (results.length !== 0) {
+                                    if (next == null)
+                                        next = [];
+                                    for (let source of results) {
+                                        next.push(child.copyFor(source));
+                                    }
+                                }
+                            }
+                            catch (ex) {
+                                this.consumer.onCommandComplete(context, false, 0);
+                                if (!forked)
+                                    throw ex;
+                            }
+                        }
+                    }
+                }
+                else if (context.getCommand() != null) {
+                    foundCommand = true;
+                    try {
+                        let value = await (context.getCommand())(context);
+                        result.push(value);
+                        this.consumer.onCommandComplete(context, true, value);
+                        successfulForks++;
+                    }
+                    catch (ex) {
+                        this.consumer.onCommandComplete(context, false, ex);
+                        if (!forked)
+                            throw ex;
+                    }
+                }
+            }
+            contexts = next;
+            next = null;
+        }
+        if (!foundCommand) {
+            this.consumer.onCommandComplete(original, false, 0);
+            throw CommandSyntaxException_1.default.BUILT_IN_EXCEPTIONS.dispatcherUnknownCommand().createWithContext(parse.getReader());
+        }
+        return await Promise.all(result);
+    }
     parse(command, source) {
         if (typeof command === 'string')
             command = new StringReader_1.default(command);
